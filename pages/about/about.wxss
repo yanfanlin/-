@@ -1,0 +1,22 @@
+/* pages/about/about.wxss */
+.data-top{
+display: flex;
+  width: 100%;
+ left: 0;
+ right: 0;
+  position: fixed;
+  bottom: 0px;
+ background-color: #f0f0f0;
+  
+}
+.data-top-center{
+  text-align: center;
+  color: red;
+  
+  flex: 1;
+  height: 44px;
+ 
+}
+.data-top-center:hover{
+  background-color: #f0f;
+}

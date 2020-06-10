@@ -1,0 +1,15 @@
+<!--pages/about/about.wxml-->
+<div class="data-top">
+<text class="data-top-center">
+首页
+</text>
+<text class="data-top-center">
+分类
+</text>
+<text class="data-top-center">
+关于
+</text>
+<text class="data-top-center">
+我的
+</text>
+</div>
